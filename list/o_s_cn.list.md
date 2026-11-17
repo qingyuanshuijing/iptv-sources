@@ -352,4 +352,4 @@
 | 346 | Yichang Sanxia Travel & Life Channel | liveplay.ycrmt.cn | <https://liveplay.ycrmt.cn/sxgd/lysh.m3u8> |
 | 347 | Yichang Sanxia General Channel | liveplay.ycrmt.cn | <https://liveplay.ycrmt.cn/sxgd/zhpd.m3u8> |
 
-Updated at **Tue Nov 17 2026 07:43:15 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Nov 17 2026 17:24:12 GMT+0000 (Coordinated Universal Time)**
